@@ -1,4 +1,4 @@
-# RetailSalesProject
+# Retail Sales Project
 Sales Analytics via Python 
 
 ## Project Overview 
