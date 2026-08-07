@@ -23,16 +23,26 @@ models
 - Statsmodels
 - Scikit-learn
 
-### Python Files
+## Python Files
 * [01_download_cleandata2.py](Code/01_download_cleandata2.py) : Load in and join Excel files
 * [02_Exploratory_Analysis2.py](Code/02_Exploratory_Analysis2.py) : Data exploration
 * [03_Regression_Analysis2.py](Code/03_Regression_Analysis2.py) : Regression
 * [04_Advanced_Analytics2.py](Code/04_Advanced_Analytics2.py) : Rolling Averages and Forecasting
-* [05_Visuals2.py](Code/05_Visuals2.py) : Data Visualizations 
-### Exploratory Data Analysis 
+* [05_Visuals2.py](Code/05_Visuals2.py) : Data Visualizations
+  
+## Visuals
 
-### Regression Results 
+### Average Sales Per Year
 
-### Forecasting and Rolling Averages 
+### Sales vs Customers Scatterplot
+
+### Average Sales by Day
+
+### Average Sales by Month
+
+
+## Regression Results 
+
+## Forecasting and Rolling Averages 
 
 ## Key Takeaways 
