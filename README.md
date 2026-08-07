@@ -47,5 +47,6 @@ models
 ## Regression Results 
 
 ## Forecasting and Rolling Averages 
+[Rolling Average vs Actual Sales](https://iancred.github.io/RetailSalesProject/DailySalesRolling7.html)
 
 ## Key Takeaways 
