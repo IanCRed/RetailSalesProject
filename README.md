@@ -32,6 +32,9 @@ models
   
 ## Visuals
 
+### Retail Sales Over Time 
+[Retail Sales Over Time](https://iancred.github.io/RetailSalesProject/RetailSalesOverTime.html)
+
 ### Average Sales Per Year
 ![Avg_Sales.png](<Visuals/Avg_Sales.png>)
 
