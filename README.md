@@ -33,13 +33,16 @@ models
 ## Visuals
 
 ### Average Sales Per Year
+![Avg_Sales.png](<Visuals/Avg_Sales.png>)
 
 ### Sales vs Customers Scatterplot
+![Sales vs Customers](<Visuals/Sales v Customers.png>)
 
 ### Average Sales by Day
+![Sales by Day](<Visuals/SalesbyDay.png>)
 
 ### Average Sales by Month
-
+![Sales by Month](<Visuals/SalesbyMonth.png>)
 
 ## Regression Results 
 
