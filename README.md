@@ -48,6 +48,7 @@ models
 ![Sales by Month](<Visuals/SalesbyMonth.png>)
 
 ## Regression Results 
+![Multiple Linear Regression](<Retail MLR Results.png>)
 
 ## Forecasting and Rolling Averages 
 [Rolling Average vs Actual Sales](https://iancred.github.io/RetailSalesProject/DailySalesRolling7.html)
