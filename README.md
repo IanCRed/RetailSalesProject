@@ -38,6 +38,9 @@ models
 ### Average Sales Per Year
 ![Avg_Sales.png](<Visuals/Avg_Sales.png>)
 
+### Average Sales Based on Day's with Promotions 
+![Sales by Day's with Promos](<Visuals/AVGSALESPROMO.png>)
+
 ### Sales vs Customers Scatterplot
 ![Sales vs Customers](<Visuals/Sales v Customers.png>)
 
