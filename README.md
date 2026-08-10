@@ -52,7 +52,7 @@ models
 ![Multiple Linear Regression](<Visuals/Retail MLR Results1.png>)
 
 ### MLR with rolling averages
-
+![MLR Rolling Averages](<Visuals/OLS with rolling avg.png>)
 
 ## Forecasting and Rolling Averages 
 [Rolling Average vs Actual Sales](https://iancred.github.io/RetailSalesProject/DailySalesRolling7.html)
@@ -60,6 +60,6 @@ models
 then forecast with regression vs sales 
 
 ## Key Takeaways 
-* The strongest predictors of retail sales were
+* The strongest predictors of retail sales were customer traffic and promotions. 
 * Simple forecasting methods have limitations : 7-Day rolling averages produced an MAE of 2,332.14. Which means predictions differed from actual daily sales by $2,332.14. Mean average sales were $5,398.98.
 * Forecasting based on regression was more accurate : When forecasting based off of our MLR, the MAE produced was 831.15, a significant improvement from 2,332.14.  
