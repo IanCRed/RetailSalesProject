@@ -60,7 +60,6 @@ models
 ## Forecasting and Rolling Averages 
 [Rolling Average vs Actual Sales](https://iancred.github.io/RetailSalesProject/DailySalesRolling7.html)
 
-then forecast with regression vs sales 
 
 ## Key Takeaways 
 * The strongest predictors of retail sales were customer traffic and promotions. 
